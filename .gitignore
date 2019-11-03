@@ -1,0 +1,12 @@
+# Project dependencies
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
+node_modules
+.cache/
+# Build directory
+/blog/.vuepress/dist
+/public
+.DS_Store
+yarn-error.log
+package-lock.json
+tmux-client-33074.log
+tmux-server-33076.log
