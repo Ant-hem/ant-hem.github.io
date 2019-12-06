@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Ant-hem\'s blog',
+    title: 'Ant-hem\'s home',
     description: 'Software Engineer writing articles about C++, C#, Java and other stuff.',
     theme: '@vuepress/theme-blog',
     themeConfig: {
