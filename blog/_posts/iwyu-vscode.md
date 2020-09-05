@@ -1,6 +1,6 @@
 ---
 date: 2020-8-31
-tag: 
+tags: 
   - C++
   - cpp
   - clangd
