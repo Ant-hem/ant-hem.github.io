@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ahemery.dev/sitemap.xml
+Host: https://ahemery.dev
