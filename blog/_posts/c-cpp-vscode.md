@@ -6,7 +6,7 @@ tags:
   - clangd
   - lldb
   - vscode
-author: Antoine
+author: Antoine Hémery
 location: Paris, France
 ---
 
