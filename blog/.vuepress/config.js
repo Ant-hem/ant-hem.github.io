@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Ant-hem\'s home',
+  title: 'Ant-hem\'s tech blog',
   description:
       'Software Engineer writing articles about C++, C#, Java and other stuff.',
   theme: '@vuepress/theme-blog',
@@ -35,12 +35,9 @@ module.exports = {
       ],
       copyright: [
         {
-          text: 'Privacy Policy',
-          link: 'https://policies.google.com/privacy?hl=en-US',
-        },
-        {
           text: 'MIT Licensed | Copyright © 2019-present',
-          link: '',
+          link:
+              'https://github.com/Ant-hem/ant-hem.github.io/blob/blog/LICENCE.md',
         },
         {
           text: 'Source',
