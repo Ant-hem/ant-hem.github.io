@@ -6,7 +6,7 @@ tags:
   - clangd
   - iwyu
   - vscode
-author: Antoine
+author: Antoine Hémery
 location: Paris, France
 ---
 
