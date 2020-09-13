@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Ant-hem\'s tech blog',
+  title: 'Ant-hem\'s Tech Blog',
   description:
       'Software Engineer writing articles about C++, C#, Java and other stuff.',
   theme: '@vuepress/theme-blog',
@@ -49,6 +49,7 @@ module.exports = {
     feed: {
       canonical_base: 'https://ahemery.dev',
     },
+    smoothScroll: true
   },
 
 }
