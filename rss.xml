@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Ant-hem&apos;s Tech Blog</title>
+        <link>https://ahemery.dev</link>
+        <description>Software Engineer writing articles about C++, C#, Java and other stuff.</description>
+        <lastBuildDate>Sun, 13 Sep 2020 18:51:55 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+        <item>
+            <title><![CDATA[My C/C++ Dev Setup with VSCode]]></title>
+            <link>https://ahemery.dev/2020/08/24/c-cpp-vscode/</link>
+            <guid>https://ahemery.dev/2020/08/24/c-cpp-vscode/</guid>
+            <pubDate>Sun, 23 Aug 2020 22:00:00 GMT</pubDate>
+            <description><![CDATA[Lately, I have been working on Algolia's search engine which is a complex C++ code-base. I felt the need of a perfect editor's set up to work efficiently.
+
+Just before working on the engine, I was w ...]]></description>
+            <enclosure url="https://ahemery.dev/img/clangd.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[IWYU VSCode Integration]]></title>
+            <link>https://ahemery.dev/2020/08/31/iwyu-vscode/</link>
+            <guid>https://ahemery.dev/2020/08/31/iwyu-vscode/</guid>
+            <pubDate>Sun, 30 Aug 2020 22:00:00 GMT</pubDate>
+            <description><![CDATA[Include What You Use also known as IWYU, is an open-source clang-based tool for determining what include statements are needed in ...]]></description>
+            <enclosure url="https://ahemery.dev/img/iwyu.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Clang Static Analyzer (scan-build) Setup]]></title>
+            <link>https://ahemery.dev/2020/09/14/clang-static-analyzer/</link>
+            <guid>https://ahemery.dev/2020/09/14/clang-static-analyzer/</guid>
+            <pubDate>Sun, 13 Sep 2020 22:00:00 GMT</pubDate>
+            <description><![CDATA[What is scan-build?
+
+Clang Static Analyzer (also known as scan-build) is a source code analysis tool that finds bugs in C, C++, and Objective-C programs. The analyzer is a 100% open source ...]]></description>
+            <enclosure url="https://ahemery.dev/img/scan-build.png">
+            </enclosure>
+        </item>
+    </channel>
+</rss>
