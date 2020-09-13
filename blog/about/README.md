@@ -9,4 +9,4 @@ I am an open-source enthusiast, member of the [.NET Foundation](https://dotnetfo
 
 Don't be a stranger and say hi!
 
-This blog is [open-source](https://github.com/Ant-hem/ant-hem.github.io) and powered by [VuePress](https://vuepress.vuejs.org/).
+*This blog is [open-source](https://github.com/Ant-hem/ant-hem.github.io) and powered by [VuePress](https://vuepress.vuejs.org/).*
